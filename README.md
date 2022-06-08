@@ -31,7 +31,7 @@
   
  ##  <br>
  <p align="center"> 
-   <img src="https://profile-counter.glitch.me/romualdoviana/count.svg" />
+  
  </p>
 </p>
 
