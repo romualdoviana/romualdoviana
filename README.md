@@ -4,8 +4,7 @@
 
 ## ⚡ GitHub Stats
 <div>
-  ![Romualdo's GitHub stats](https://github-readme-stats.vercel.app/api?username=romualdoviana&show_icons=true)
-  
+  <img height="174em" width="auto" src="https://github-readme-stats.vercel.app/api?username=romualdoviana&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
   <img height="174em" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=romualdoviana&layout=compact&langs_count=6&theme=radical&count_private=true" />
 </div>
 
