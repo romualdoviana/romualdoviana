@@ -17,6 +17,8 @@
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
+  <img src="https://img.shields.io/badge/PHP-35495E?style=for-the-badge&logo=php" />
+  <img src="https://img.shields.io/badge/Laravel-FFFFFF?style=for-the-badge&logo=laravel" />
 </div>
 
 ## 📫 Você pode me encontrar aqui:
